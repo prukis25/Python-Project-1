@@ -4,7 +4,7 @@ print("""
 Welcome to the Guessing Game
 This is also my first project - be generous
 Please guess a number from 1 to 20
-You have 4 attempts to get it right!
+You have 5 attempts to get it right!
 Good Luck
 """)
 
