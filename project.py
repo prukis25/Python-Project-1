@@ -15,11 +15,9 @@ number = random.randint(1,20)
 chances = 0
 
 
-# While loop to count the number
-# of chances
 while chances < 5:
 
-    # Enter a number between 1 to 9
+
     guess = input("Please choose a number between 1 and 20:   ")
     try:
         guess = int(guess)
